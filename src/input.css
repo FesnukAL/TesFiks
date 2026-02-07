@@ -1,1 +1,6 @@
 @import "tailwindcss";
+@theme {
+  /* Di v4, kita setting warna kustom langsung di sini */
+  --color-primary: #2563eb;
+  --color-secondary: #1e40af;
+}
